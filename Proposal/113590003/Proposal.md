@@ -4,7 +4,7 @@
 
 組員：
 
-- 111590003 陳柏全
+- 113590003 陳柏全
 
 # Game Introduction
 
@@ -75,4 +75,5 @@
 # 長頸鹿大冒險通關證明
 <img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/f88936ae-a844-40d6-87a6-406fd220bc3c" />
 <img width="874" height="470" alt="image" src="https://github.com/user-attachments/assets/94664714-f292-454e-90ab-f87f93a7666d" />
+
 
