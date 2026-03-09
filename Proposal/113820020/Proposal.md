@@ -15,10 +15,9 @@
 
 # Development timeline
 
-- Week 01：撰寫 Proposal、環境建置
+- Week 02：環境建置、蒐集素材與前置處理
   - [ ] 完成專案 Proposal 撰寫
   - [ ] 設定 CMake 與 PTSD Framework 開發環境
-- Week 02：蒐集素材與前置處理
   - [ ] 尋找並下載賽道、賽車、道具之像素貼圖 (Sprite Sheets)
   - [ ] 使用去背軟體將素材裁切並輸出為透明背景的 PNG 格式
 - Week 03：實作 Mode 7 賽道渲染核心
